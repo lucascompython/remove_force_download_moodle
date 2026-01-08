@@ -1,5 +1,7 @@
 # Chromium/Firefox Extension to remove the "?forcedownload=1" attribute from links IPVC's moodle
 
+Prevents [elearning.ipvc.pt](https://elearning.ipvc.pt) from forcing file downloads.
+
 Ever been annoyed by Moodle forcing you to download files instead of opening them in the browser? This extension is here to help! It removes the "?forcedownload=1" attribute from links on IPVC's Moodle, allowing you to open files directly in your browser.
 
 ## Installation
