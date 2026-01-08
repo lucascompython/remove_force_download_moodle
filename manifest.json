@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Remove Force Download from IPVC Moodle",
+  "version": "0.1",
+
+  "description": "Makes it so links that have the \"?forcedownload\" attribute in IPVC's Moodle open in the browser instead of being downloaded.",
+
+  "content_scripts": [
+    {
+      "matches": ["*://elearning.ipvc.pt/*"],
+      "js": ["remove_force_download.js"]
+    }
+  ]
+}
