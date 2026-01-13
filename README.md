@@ -6,7 +6,7 @@ Ever been annoyed by Moodle forcing you to download files instead of opening the
 
 ## Install
 You can install this extention directly from the Firefox Add-on store [here](https://addons.mozilla.org/en-US/firefox/addon/remove-force-download-moodle/).  
-For chromium-based browsers, you still need to manually install the extention.
+For chromium-based browsers, you still need to manually install the extention, because google's greedy ass charges $5 to register an extension :)
 
 ## Manual Installation
 
